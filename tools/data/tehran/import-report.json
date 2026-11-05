@@ -1,0 +1,690 @@
+{
+  "sourceDeclaredBounds": [
+    35.66608,
+    51.2598,
+    35.71042,
+    51.34941
+  ],
+  "sourceActualNodeBounds": [
+    35.5586642,
+    51.2330876,
+    35.7188979,
+    51.4478433
+  ],
+  "sourceCounts": {
+    "nodes": 52691,
+    "ways": 10651,
+    "completeWays": 10651,
+    "relations": 387
+  },
+  "sourceQuality": {
+    "missingWayNodeRefs": 0,
+    "incompleteWays": 0,
+    "missingRelationWayMembers": 5090
+  },
+  "importBounds": [
+    35.653,
+    51.233000000000004,
+    35.7185,
+    51.349999999999994
+  ],
+  "layerCounts": {
+    "roads": 4081,
+    "coast": 0,
+    "water": 23,
+    "parks": 327,
+    "buildings": 2273,
+    "aeroways": 652,
+    "fences": 99,
+    "trees": 172,
+    "enforcement": 27
+  },
+  "incompleteAreaRelations": [
+    {
+      "id": 6728896,
+      "name": "منطقه ۲ شهر تهران",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "9",
+        "boundary": "administrative",
+        "name": "منطقه ۲ شهر تهران",
+        "name:de": "2. Bezirk",
+        "name:en": "District 2",
+        "place": "suburb",
+        "type": "boundary",
+        "wikidata": "Q5683603",
+        "wikipedia": "fa:منطقه ۲ شهرداری تهران"
+      },
+      "missingWayMembers": 33,
+      "missingOuterMembers": 32,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 6729502,
+      "name": "منطقه ۱۷ شهر تهران",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "9",
+        "boundary": "administrative",
+        "name": "منطقه ۱۷ شهر تهران",
+        "name:de": "17. Bezirk",
+        "name:en": "District 17",
+        "place": "suburb",
+        "type": "boundary",
+        "wikidata": "Q5872537",
+        "wikipedia": "fa:منطقه ۱۷ شهرداری تهران"
+      },
+      "missingWayMembers": 21,
+      "missingOuterMembers": 20,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 6729503,
+      "name": "منطقه ۱۸ شهر تهران",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "9",
+        "boundary": "administrative",
+        "name": "منطقه ۱۸ شهر تهران",
+        "name:de": "18. Bezirk",
+        "name:en": "District 18",
+        "place": "suburb",
+        "type": "boundary",
+        "wikidata": "Q5677687",
+        "wikipedia": "fa:منطقه ۱۸ شهرداری تهران"
+      },
+      "missingWayMembers": 17,
+      "missingOuterMembers": 16,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 6729505,
+      "name": "منطقه ۲۱ شهر تهران",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "9",
+        "boundary": "administrative",
+        "name": "منطقه ۲۱ شهر تهران",
+        "name:de": "21. Bezirk",
+        "name:en": "District 21",
+        "place": "suburb",
+        "type": "boundary",
+        "wikidata": "Q5377751",
+        "wikipedia": "fa:منطقه ۲۱ شهرداری تهران"
+      },
+      "missingWayMembers": 22,
+      "missingOuterMembers": 21,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 6729507,
+      "name": "منطقه ۵ شهر تهران",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "9",
+        "boundary": "administrative",
+        "name": "منطقه ۵ شهر تهران",
+        "name:de": "5. Bezirk",
+        "name:en": "District 5",
+        "place": "suburb",
+        "type": "boundary",
+        "wikidata": "Q5710846",
+        "wikipedia": "fa:منطقه ۵ شهرداری تهران"
+      },
+      "missingWayMembers": 21,
+      "missingOuterMembers": 20,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 6729508,
+      "name": "منطقه ۹ شهر تهران",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "9",
+        "boundary": "administrative",
+        "name": "منطقه ۹ شهر تهران",
+        "name:de": "9. Bezirk",
+        "name:en": "District 9",
+        "place": "suburb",
+        "type": "boundary",
+        "wikidata": "Q5703380",
+        "wikipedia": "fa:منطقه ۹ شهرداری تهران"
+      },
+      "missingWayMembers": 5,
+      "missingOuterMembers": 5,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 8321640,
+      "name": "آذری",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "11",
+        "boundary": "administrative",
+        "is_in:city": "تهران",
+        "name": "آذری",
+        "name:en": "Azari",
+        "place": "neighbourhood",
+        "type": "boundary"
+      },
+      "missingWayMembers": 3,
+      "missingOuterMembers": 3,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 8321643,
+      "name": "تولید دارو",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "11",
+        "boundary": "administrative",
+        "is_in:city": "تهران",
+        "name": "تولید دارو",
+        "name:en": "Tolid Daru",
+        "place": "neighbourhood",
+        "type": "boundary"
+      },
+      "missingWayMembers": 2,
+      "missingOuterMembers": 2,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 8321644,
+      "name": "شمشیری",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "11",
+        "boundary": "administrative",
+        "is_in:city": "تهران",
+        "name": "شمشیری",
+        "name:en": "Shamshiri",
+        "place": "neighbourhood",
+        "type": "boundary"
+      },
+      "missingWayMembers": 1,
+      "missingOuterMembers": 1,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 8321653,
+      "name": "امام زاده عبدالله",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "11",
+        "boundary": "administrative",
+        "is_in:city": "تهران",
+        "name": "امام زاده عبدالله",
+        "name:en": "Emamzadeh Abdollah",
+        "place": "neighbourhood",
+        "type": "boundary"
+      },
+      "missingWayMembers": 2,
+      "missingOuterMembers": 2,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 8321654,
+      "name": "دستغیب",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "11",
+        "boundary": "administrative",
+        "is_in:city": "تهران",
+        "name": "دستغیب",
+        "name:en": "Dastgheyb",
+        "place": "neighbourhood",
+        "type": "boundary"
+      },
+      "missingWayMembers": 1,
+      "missingOuterMembers": 1,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 8321657,
+      "name": "دکتر هوشیار",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "11",
+        "boundary": "administrative",
+        "is_in:city": "تهران",
+        "name": "دکتر هوشیار",
+        "name:en": "Doctor Hushmand",
+        "place": "neighbourhood",
+        "type": "boundary"
+      },
+      "missingWayMembers": 1,
+      "missingOuterMembers": 1,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 8321659,
+      "name": "تیموری",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "11",
+        "boundary": "administrative",
+        "is_in:city": "تهران",
+        "name": "تیموری",
+        "name:en": "Teymuri",
+        "place": "neighbourhood",
+        "type": "boundary"
+      },
+      "missingWayMembers": 3,
+      "missingOuterMembers": 3,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 8321660,
+      "name": "طرشت",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "11",
+        "boundary": "administrative",
+        "is_in:city": "تهران",
+        "name": "طرشت",
+        "name:en": "Tarasht",
+        "place": "neighbourhood",
+        "type": "boundary"
+      },
+      "missingWayMembers": 1,
+      "missingOuterMembers": 1,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 8321718,
+      "name": "حسینی",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "11",
+        "boundary": "administrative",
+        "is_in:city": "تهران",
+        "name": "حسینی",
+        "name:en": "Hosseini",
+        "place": "neighbourhood",
+        "type": "boundary"
+      },
+      "missingWayMembers": 2,
+      "missingOuterMembers": 2,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 8321720,
+      "name": "شهرک فرهنگیان",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "11",
+        "boundary": "administrative",
+        "is_in:city": "تهران",
+        "name": "شهرک فرهنگیان",
+        "name:en": "Shahrak Farhangian",
+        "place": "neighbourhood",
+        "type": "boundary"
+      },
+      "missingWayMembers": 1,
+      "missingOuterMembers": 1,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 8321721,
+      "name": "شهرک آپادانا",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "11",
+        "boundary": "administrative",
+        "is_in:city": "تهران",
+        "name": "شهرک آپادانا",
+        "name:en": "Shahrak Apadana",
+        "place": "neighbourhood",
+        "type": "boundary"
+      },
+      "missingWayMembers": 2,
+      "missingOuterMembers": 2,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 8321722,
+      "name": "اکباتان",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "11",
+        "boundary": "administrative",
+        "is_in:city": "تهران",
+        "name": "اکباتان",
+        "name:en": "Ekbatan",
+        "name:fa": "اکباتان",
+        "place": "neighbourhood",
+        "type": "boundary"
+      },
+      "missingWayMembers": 5,
+      "missingOuterMembers": 5,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 8321725,
+      "name": "هفده شهریور",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "11",
+        "boundary": "administrative",
+        "is_in:city": "تهران",
+        "name": "هفده شهریور",
+        "name:en": "Hefdah Shahrivar",
+        "place": "neighbourhood",
+        "type": "boundary"
+      },
+      "missingWayMembers": 3,
+      "missingOuterMembers": 3,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 8321726,
+      "name": "شهرک امام خمینی",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "11",
+        "boundary": "administrative",
+        "is_in:city": "تهران",
+        "name": "شهرک امام خمینی",
+        "name:en": "Shahrak Emam Khomeini",
+        "place": "neighbourhood",
+        "type": "boundary"
+      },
+      "missingWayMembers": 2,
+      "missingOuterMembers": 2,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 8321767,
+      "name": "شهرک آزادی",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "11",
+        "boundary": "administrative",
+        "is_in:city": "تهران",
+        "name": "شهرک آزادی",
+        "name:en": "Shahrak Azadi",
+        "place": "neighbourhood",
+        "type": "boundary"
+      },
+      "missingWayMembers": 1,
+      "missingOuterMembers": 1,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 8321782,
+      "name": "خلیج فارس",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "11",
+        "boundary": "administrative",
+        "is_in:city": "تهران",
+        "name": "خلیج فارس",
+        "name:en": "Khalij Fars",
+        "place": "neighbourhood",
+        "type": "boundary"
+      },
+      "missingWayMembers": 5,
+      "missingOuterMembers": 5,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 9167401,
+      "name": "تهرانسر شرقی",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "11",
+        "boundary": "administrative",
+        "is_in:city": "تهران",
+        "name": "تهرانسر شرقی",
+        "name:en": "East Tehransar",
+        "place": "neighbourhood",
+        "type": "boundary"
+      },
+      "missingWayMembers": 4,
+      "missingOuterMembers": 4,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 9167404,
+      "name": "تهرانسر مرکزی",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "11",
+        "boundary": "administrative",
+        "is_in:city": "تهران",
+        "name": "تهرانسر مرکزی",
+        "name:en": "Central Tehransar",
+        "place": "neighbourhood",
+        "type": "boundary"
+      },
+      "missingWayMembers": 2,
+      "missingOuterMembers": 2,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 9167406,
+      "name": "تهرانسر شمالی",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "11",
+        "boundary": "administrative",
+        "is_in:city": "تهران",
+        "name": "تهرانسر شمالی",
+        "name:en": "North Tehransar",
+        "place": "neighbourhood",
+        "type": "boundary"
+      },
+      "missingWayMembers": 1,
+      "missingOuterMembers": 1,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 12955903,
+      "name": "ناحیه ۱",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "ناحیه ۱",
+        "name:en": "Zone 1",
+        "official_name:fa": "ناحیه ۱ منطقه ۲۱",
+        "place": "quarter",
+        "type": "boundary"
+      },
+      "missingWayMembers": 6,
+      "missingOuterMembers": 5,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 13895268,
+      "name": "ناحیه ۵",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "ناحیه ۵",
+        "place": "quarter",
+        "type": "boundary"
+      },
+      "missingWayMembers": 6,
+      "missingOuterMembers": 5,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 14738965,
+      "name": "دانشگاه صنعتی شریف",
+      "type": "multipolygon",
+      "tags": {
+        "addr:street": "خیابان آزادی",
+        "amenity": "university",
+        "name": "دانشگاه صنعتی شریف",
+        "name:en": "Sharif University of Technology",
+        "type": "multipolygon",
+        "website": "https://www.sharif.ir/",
+        "wikidata": "Q2096604",
+        "wikipedia": "fa:دانشگاه صنعتی شریف"
+      },
+      "missingWayMembers": 3,
+      "missingOuterMembers": 2,
+      "missingInnerMembers": 1
+    },
+    {
+      "id": 15512935,
+      "name": "ناحیه ۱",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "ناحیه ۱",
+        "place": "quarter",
+        "type": "boundary"
+      },
+      "missingWayMembers": 2,
+      "missingOuterMembers": 2,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 17147384,
+      "name": "شهرک انصار",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "11",
+        "boundary": "administrative",
+        "name": "شهرک انصار",
+        "place": "neighbourhood",
+        "type": "boundary"
+      },
+      "missingWayMembers": 3,
+      "missingOuterMembers": 3,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 20147478,
+      "name": "بازار قطعات خودرو ایران",
+      "type": "multipolygon",
+      "tags": {
+        "building": "commercial",
+        "name": "بازار قطعات خودرو ایران",
+        "type": "multipolygon"
+      },
+      "missingWayMembers": 4,
+      "missingOuterMembers": 0,
+      "missingInnerMembers": 4
+    },
+    {
+      "id": 21148516,
+      "name": "ناحیه ۶",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "ناحیه ۶",
+        "place": "quarter",
+        "type": "boundary"
+      },
+      "missingWayMembers": 5,
+      "missingOuterMembers": 5,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 21276702,
+      "name": "ناحیه ۵",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "ناحیه ۵",
+        "name:en": "Zone 5",
+        "place": "quarter",
+        "type": "boundary"
+      },
+      "missingWayMembers": 9,
+      "missingOuterMembers": 9,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 21283059,
+      "name": "ناحیه ۲",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "ناحیه ۲",
+        "name:en": "Zone 2",
+        "official_name:fa": "ناحیه ۲ منطقه ۲۱",
+        "place": "quarter",
+        "type": "boundary"
+      },
+      "missingWayMembers": 14,
+      "missingOuterMembers": 14,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 21286087,
+      "name": "ناحیه ۲",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "ناحیه ۲",
+        "place": "quarter",
+        "type": "boundary"
+      },
+      "missingWayMembers": 3,
+      "missingOuterMembers": 3,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 21288318,
+      "name": "ناحیه ۱",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "ناحیه ۱",
+        "place": "quarter",
+        "type": "boundary"
+      },
+      "missingWayMembers": 13,
+      "missingOuterMembers": 12,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 21292189,
+      "name": "ناحیه ۱",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "ناحیه ۱",
+        "place": "quarter",
+        "type": "boundary"
+      },
+      "missingWayMembers": 8,
+      "missingOuterMembers": 7,
+      "missingInnerMembers": 0
+    },
+    {
+      "id": 21292192,
+      "name": "ناحیه ۴",
+      "type": "boundary",
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "name": "ناحیه ۴",
+        "place": "quarter",
+        "type": "boundary"
+      },
+      "missingWayMembers": 5,
+      "missingOuterMembers": 5,
+      "missingInnerMembers": 0
+    }
+  ],
+  "incompleteAreaRelationCount": 38,
+  "outsideBoxElements": 1,
+  "note": "Derived locally from the supplied OSM XML; source file was not modified. OSM data © OpenStreetMap contributors, ODbL 1.0.",
+  "sourceFile": "map.osm",
+  "sourceSizeBytes": 14256318,
+  "outputDir": "/mnt/data/tehran-edit/tools/data/tehran",
+  "city": "tehran"
+}
